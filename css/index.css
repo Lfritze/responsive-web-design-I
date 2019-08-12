@@ -167,36 +167,6 @@ footer {
 	text-align: center;
 }
 
-.services-top-content {
-	margin-top: 0px;
-	margin-bottom: 20px;
-	text-align: justify;
-}
-
-.services-top-content h1 {
-	font-size: 20px;
-}
-
-
-.services-bottom-content {
-	display: flex;
-	width: 880px;
-	justify-content: space-between;
-	margin: 20px;
-}
-
-.services-bottom-content div {
-	margin: 10px;
-
-}
-
-.services-bottom-content p {
-	text-align: justify;
-}
-
-.services-info-img {
-	width: 380px;
-}
 
 /***************************************2 MEDIA QUERIES Below (800px and 500px) ********************************/  
 /*****800px*******/
@@ -258,34 +228,7 @@ header img {
 	text-align: justify;
 }
 
-.services-top-content {
-	margin-top: 0px;
-	margin-bottom: 20px;
-	text-align: justify;
-	}
 
-	.services-top-content h1 {
-	font-size: 20px;
-	}
-
-	.services-bottom-content {
-	display: flex;
-	width: 100%;
-	justify-content: space-between;
-	margin: 20px;
-	}
-
-	.services-bottom-content div {
-	margin: 10px; 
-	}
-
-	.services-bottom-content p {
-	text-align: justify;
-	}
-
-	.services-info-img {
-	width: 100%;
-	}
 
 .middle-img {
 	max-width: 100%;
